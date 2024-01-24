@@ -10,3 +10,8 @@ I would say there are many reasons why Bandana's is my Favorite Restaurant. For 
 1. Pulled Pork
 2. Brisket
 3. Garlic Bread
+
+### Places to visit nearby
+- Regal Hollywood Movie Theater
+- Sam's Club
+- Cool Crest Garden Golf
