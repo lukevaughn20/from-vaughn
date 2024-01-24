@@ -42,3 +42,16 @@ Darth Vader
 > Where was Gonder when the Westfold Fell
 
 King Theoden
+
+---
+
+### Code Fencing
+
+My Code section is for typescript and it is used to perform
+left to right composition
+```
+const compose = (...fns: Func[]) => {
+	fns.reduce((f, g) => (...args: any[]) => f(...castArray(g(...args))));
+}
+```
+[Source for Snippit](https://code.pieces.app/collections/typescript)
