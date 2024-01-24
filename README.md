@@ -36,7 +36,9 @@ the creators of the media.
 ### Favorite Quote
 
 > No I am your Father!
+
 Darth Vader
 
 > Where was Gonder when the Westfold Fell
+
 King Theoden
