@@ -15,3 +15,5 @@ I would say there are many reasons why Bandana's is my Favorite Restaurant. For 
 - Regal Hollywood Movie Theater
 - Sam's Club
 - Cool Crest Garden Golf
+
+![Click Here to see MyMedia Page](C:\Users\S539104\Documents\Computer Science\44-563 Developing Web Apps and Servers\webapps-repo\from-vaughn\MyMedia.md)
