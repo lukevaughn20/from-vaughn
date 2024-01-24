@@ -30,3 +30,13 @@ the creators of the media.
 |Lord of the Rings| Great Story and Characters | J.R.R. Tolkien|
 |Where Im From| Fantastic Song about life | Jason Carrol|
 |Three Wooden Crosses| Great Pick me up song | Randy Travis |
+
+---
+
+### Favorite Quote
+
+> No I am your Father!
+Darth Vader
+
+> Where was Gonder when the Westfold Fell
+King Theoden
